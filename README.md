@@ -1,11 +1,11 @@
 ## pkmn swsh watts farmer
 
-Automatically farms watts in Pokémon Sword & Shield with an Teensy 2.0++
+Automatically farms watts in Pokémon Sword & Shield by emulating a controller on a Teensy2.0++
 
 #### How to use
 
 Walk to a den and throw an Wishing Piece in it. Use the date spoofing exploit until the den glows red (don't go in yet!).
-Got to Change Grip/Order window on your Switch Homescreen, press nothing else and plug in the controller. It will automatically sync with the console and starts farming watts for you.
+Now go into the Change Grip/Order window on your Switch Homescreen, press nothing and plug in the Teensy2.0++. It will automatically sync with the console and starts farming watts for you.
 
 In case you see issues with controller conflicts while in docked mode, try using a USB-C to USB-A adapter in handheld mode. In dock mode, changes in the HDMI connection will briefly make the Switch not respond to incoming USB commands, skipping parts of the sequence. These changes may include turning off the TV, or switching the HDMI input. (Switching to the internal tuner will be OK, if this doesn't trigger a change in the HDMI input.)
 

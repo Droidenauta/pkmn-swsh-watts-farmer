@@ -2,6 +2,9 @@
 
 Automatically farms watts in Pokémon Sword & Shield by emulating a controller on a Teensy2.0++
 
+Video:
+[![YouTube Video](https://i.ytimg.com/vi/_R4flAlUa9U/hqdefault.jpg)](https://youtu.be/_R4flAlUa9U)
+
 #### How to use
 
 Walk to a den and throw an Wishing Piece in it. Use the date spoofing exploit until the den glows red (don't go in yet!).
